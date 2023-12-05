@@ -1,4 +1,17 @@
-# MIST-Group-Project-2# MIST-4600-Project-2
+# MIST-4600-Project-2
+
+## Team Name
+15061 Group 4
+
+## Team Members
+1) Joey Lund [@jl4600](https://github.com/jl4600) 
+2) Armon Parsa [@armon222](https://github.com/armon222)
+3) Ronit Subramanian [@ronsub101](https://github.com/ronsub101)
+4) Kyle Szabo [@kszabo2390](https://github.com/kszabo2390)
+
+## Dataset description
+Our dataset details the school attendance rate and student count by different student groups in different school districts in Connecticut for each school year from 2019-2022. We obtained the dataset from the website (https://catalog.data.gov/dataset). Our data set includes the district code and the district name for each school. The dataset then provides the information about the students, their category (ex. race/ethnicity, students with disabilities) and then the student group. Then the data set provides information about the attendance rate of each category from 2019-2022. 
+
 
 ## Question 1
 
@@ -27,10 +40,12 @@ This visualization is important because it shows that the population of Hispanic
 ![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/222f9a6d-ce5b-42f2-a70d-b79c016943d0)
 
 ### Analysis
+The graph here illustrates randomly selected school districts in Connecticut and the Student count for the 2021-2022 school year. Each school shows the Hispanic/Latino population and the free/reduced price meal eligibility that each district has. This graph shows a strong correlation for these two student groups for each district. The fact that each district has such similar trends may point towards a systemic problem at the government level. It is very telling that in areas where there is a higher Hispanic population, there tends to be a higher number of students who need free/reduced meal eligibility. Whereas in areas with lower Hispanic populations, the free/reduced price meal eligibility  student group tends to be lower. This further demonstrates a systemic issue in Connecticut that needs immediate action. 
 
-![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/2015891d-871b-460e-9df9-f25917f30a75)
+![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/0a1cbd96-a5b7-40f9-94d0-68b3b8aa1554)
 
-The graph here illustrates randomly selected school districts in Connecticut and the Student count for the 2021-2022 school year. Each school shows the Hispanic/Latino population and the Reduced price meal eligibility that each district has. This graph shows a strong correlation for these two student groups for each district. The fact that each district has such similar trends may point towards a systemic problem at the government level. It is very telling that in areas where their is a higher Hispanic population, there tends to be a higher number of students who need reduced price meal eligibility. Whereas in areas with lower Hispanic populations, the reduced price meal student group tends to be lower. This further demonstrates a systemic issue in Connecticut that needs immediate action.  
+If we compare this with the count of white students (pictured below), we can see that that metric has no clear pattern of correlation with the free/reduced meal eligibility. This goes to show that the number of students who qualify for reduced or free meals is not as simple as a direct correlation with overall student count.
+
 
 
 ### Manipulation
